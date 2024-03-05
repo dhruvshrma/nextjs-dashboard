@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     "app/lib/placeholder-data.js",
     "scripts/seed.js"
-  ],
+, ".next/types/app/invoices/page.ts"  ],
   "exclude": ["node_modules"]
 }
